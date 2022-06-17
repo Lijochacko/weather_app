@@ -1,6 +1,6 @@
 {
   "name": "weather-api",
-  "homepage": "https://lijochacko.github.io/weather_app/",
+  "homepage": "https://lijochacko.github.io/weather_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
